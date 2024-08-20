@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{088CAFA9-B06C-AA1E-E257-08D67D1CB9E4}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scipts/Z50.cs">
+    <Files>
+      <File FileName="Assets/Scipts/Z50.cs" Line="326" Column="10" />
+      <File FileName="Assets/Scipts/Z67.cs" Line="23" Column="21" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="com.Puzzle.Palace.ordergame" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scipts" expanded="True">
+                <Node name="Z50.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="31815414-9cc8-4846-b99d-7b932961a77b" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
